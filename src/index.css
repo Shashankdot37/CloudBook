@@ -1,0 +1,61 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+i
+{
+  cursor: pointer;
+}
+#login-main
+{
+  width: 50vw;
+}
+
+#signup-main
+{
+  width: 50vw;
+}
+
+input::placeholder
+{
+  font-size: small;
+  font-style: italic;
+}
+.signup-info
+{
+  font-size: small;
+  color:gray
+}
+
+#Empty
+{
+  font-size: 7rem;
+  margin-left: 3vw;
+  color: gray;
+}
+.noNote
+{
+  margin-top: 4vh;
+  align-items: center;
+}
+
+#noNoteMsg
+{
+  /* font-size: 1.4rem; */
+  color: gray;
+}
+
+#About-us-main
+{
+  width: 60vw;
+}
